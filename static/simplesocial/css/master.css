@@ -1,0 +1,27 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+  overflow: scroll;
+  background: #03fc62;
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.mynav{
+  color: black;
+}
+.navbar-brand, .navbar-nav>li>a{
+  color: black;
+}
+.mycontent{
+  text-align: center;
+}
+
+.col-md-8{
+  margin:auto 16.5%;
+}
+
+.col-md-4{
+  margin:auto 33.3%
+}
